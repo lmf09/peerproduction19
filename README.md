@@ -1,2 +1,3 @@
 # peerproduction19
-testing
+
+This is Lucy practicing.
